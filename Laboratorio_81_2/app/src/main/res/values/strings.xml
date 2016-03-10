@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name"> </string>
+    <string name="txt_title">Iniciar sesión</string>
+    <string name="txt_user">Usuario</string>
+    <string name="txt_password">Contraseña</string>
+    <string name="txt_login_get">Iniciar por GET</string>
+    <string name="txt_login_post">Iniciar por POST</string>
+    <string name="txt_session_method">Método sesión</string>
+    <string name="txt_session_status">sesión Status</string>
+    <string name="txt_session_role">Rol de la sesión</string>
+    <string name="txt_choose_method">Escoger Método</string>
+    <string name="txt_choose_method_get">Get Método</string>
+    <string name="txt_choose_method_post">Post Método</string>
+    <string name="txt_login_status_ok">Entró con éxito</string>
+    <string name="txt_login_status_fail">No inició sesión</string>
+    <string name="txt_role_not_asigned">No asignado</string>
+    <string name="txt_role_administrator">Administrador</string>
+</resources>
